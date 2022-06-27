@@ -1,0 +1,32 @@
+{
+  "name": "guild-chat",
+  "version": "0.0.1",
+  "description": "A program that connects Guild Chat & Discord",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dubfib/guild-chat.git"
+  },
+  "keywords": [
+    "guild",
+    "guild-chat",
+    "hypixel",
+    "hypixel-bridge"
+  ],
+  "author": "dubfib",
+  "license": "GPLv3",
+  "bugs": {
+    "url": "https://github.com/dubfib/guild-chat/issues"
+  },
+  "homepage": "https://github.com/dubfib/guild-chat#readme",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "discord.js": "^13.8.1",
+    "mineflayer": "^4.3.0",
+    "prompt-sync": "^4.2.0",
+    "simple-json-db": "^2.0.0"
+  }
+}
