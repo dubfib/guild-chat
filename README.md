@@ -27,4 +27,11 @@ When a player leaves:
 ![image](https://user-images.githubusercontent.com/81378985/176059204-f29555ad-cb22-4f56-9622-5265909400ec.png)
 
 ## 🌸 Contributing
+Note: This program is made on NodeJS!  
+
+To modify the code install the code directly from the main branch, not from the releases.  
+Extract the files from that .zip file  
+Then in a terminal run `npm install`   
+To run the program use `node src/index.js`  
+
 You must have tested the program and have built it on https://npmjs.com/package/pkg, it is what we use to compile it. Then submit a pull request on github with the changes you have made.
