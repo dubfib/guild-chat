@@ -1,6 +1,12 @@
 # 🌸 Guild Chat
 A program that connects Hypixel Guild Chat and Discord!
 
+## 🌸 Installation
+1. Go to https://github.com/dubfib/guild-chat/releases
+2. Download the right version (ex: if im a windows user then I download windows)
+3. Extract the zip file into a folder (make sure the src folder is in the same directory as the executable)
+4. Run the executable file and put in your email, channel id and token
+
 ## 🌸 Screenshots
 Terminal:  
 ![image](https://user-images.githubusercontent.com/81378985/176059076-6eeb5e41-c9a6-490c-8262-4f35e310f2ee.png)
